@@ -1,0 +1,17 @@
+asgiref==3.8.1
+boto3==1.34.138
+botocore==1.34.138
+Django==5.0.6
+django-cors-headers==4.4.0
+django-mysql==4.14.0
+djangorestframework==3.15.2
+djangorestframework-simplejwt==5.3.1
+jmespath==1.0.1
+PyJWT==2.8.0
+PyMySQL==1.1.1
+python-dateutil==2.9.0.post0
+s3transfer==0.10.2
+six==1.16.0
+sqlparse==0.5.0
+typing_extensions==4.12.2
+urllib3==2.2.2
